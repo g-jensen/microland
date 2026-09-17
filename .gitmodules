@@ -1,0 +1,3 @@
+[submodule "python-grpc-service-template"]
+	path = python-grpc-service-template
+	url = https://github.com/g-jensen/python-grpc-service-template.git
